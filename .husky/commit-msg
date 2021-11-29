@@ -1,0 +1,12 @@
+###
+ # @Author: liqingshan
+ # @Date: 2021-11-29 10:53:07
+ # @LastEditTime: 2021-11-29 10:58:16
+ # @LastEditors: liqingshan
+ # @FilePath: \foru_page\.husky\pre-commit
+ # @Description:
+###
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+npx commitlint
