@@ -9,12 +9,10 @@
   },
   "lint-staged": {
     "*.vue": [
-      "eslint --fix",
-      "git add"
+      "eslint --fix"
     ],
     "*.{js,jsx,ts,tsx}": [
-      "eslint --fix",
-      "git add"
+      "eslint --fix"
     ]
   },
   "dependencies": {
