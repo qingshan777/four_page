@@ -11,6 +11,5 @@
 <template>
   <div>Vue3 + Ts + Test</div>
 </template>
-<style>
-@import url('@/style/index.css');
-</style>
+
+<style></style>
