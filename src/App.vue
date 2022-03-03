@@ -1,15 +1,15 @@
 <!--
  * @Author: liqingshan
  * @Date: 2021-11-18 09:30:58
- * @LastEditTime: 2021-11-29 11:44:07
+ * @LastEditTime: 2022-03-03 09:59:13
  * @LastEditors: liqingshan
- * @FilePath: \qs-vue-template\src\App.vue
+ * @FilePath: \vue-template\src\App.vue
  * @Description:
 -->
 <script setup lang="ts"></script>
 
 <template>
-  <div>Vue3 + Ts + Test</div>
+  <div>Vue3 + Ts + Tailwind CSS</div>
 </template>
 
 <style></style>
