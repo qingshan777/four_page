@@ -1,7 +1,7 @@
 /*
  * @Author: liqingshan
  * @Date: 2021-11-29 10:17:40
- * @LastEditTime: 2022-03-03 10:34:41
+ * @LastEditTime: 2022-12-02 13:49:16
  * @LastEditors: liqingshan
  * @FilePath: \vue-template\.eslintrc.js
  * @Description:
@@ -14,7 +14,8 @@ module.exports = {
   extends: [
     'plugin:vue/vue3-recommended', // 使用 Vue3 的校验规则
     'airbnb-base',
-    'plugin:prettier/recommended' // 添加 prettier 插件
+    'plugin:prettier/recommended', // 添加 prettier 插件
+    './.eslintrc-auto-import.json' // auto-import vite 插件配置
   ],
   parserOptions: {
     ecmaVersion: 13,

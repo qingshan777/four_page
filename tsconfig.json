@@ -36,6 +36,7 @@
     "src/pages/**/*.ts",
     "src/pages/**/*.vue",
     "src/pages/*.vue",
-    "src/pages/*.ts"
+    "src/pages/*.ts",
+    "./auto-imports.d"
   ]
 }
